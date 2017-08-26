@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HFSaClient</string>
+    <string name="url_field_hint">Url</string>
+    <string name="send_button_name">Send</string>
 </resources>
